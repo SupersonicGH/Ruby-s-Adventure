@@ -1,3 +1,3 @@
-This sample of beautiful emojis are provided by EmojiOne https://www.emojione.com/
-
-Please visit their website to view the complete set of their emojis and review their licensing terms.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f4d6fb6021c534fb9d6f511508264a685cf3272cd951cb8824082c4ca90fac2
+size 374
